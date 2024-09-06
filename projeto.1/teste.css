@@ -11,3 +11,10 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.grande{
+    justify-content: center;
+}
+
+div {
+    background-color: blueviolet;
+}
