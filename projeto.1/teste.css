@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: hwb(30 79% 2%);
     font-size: 20px;
 }
 
@@ -11,10 +11,23 @@ ol {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.grande{
-    justify-content: center;
+img{
+    margin: auto;
+    text-align: center ;
 }
 
-div {
-    background-color: blueviolet;
+.lista{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+}
+
+.truq{
+    margin-left: 0px;
+    margin-right: 30px;
 }
