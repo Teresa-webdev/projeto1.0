@@ -1,0 +1,41 @@
+body {
+    background-color: hwb(30 79% 2%);
+    font-size: 20px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin: 0px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    margin: auto;
+    text-align: center ;
+}
+
+.lista{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.list{
+    display: flex;
+    list-style-type: none;
+}
+
+.truq{
+    margin-left: 0px;
+    margin-right: 30px;
+}
+
+header {
+    background-color: chocolate;
+}
